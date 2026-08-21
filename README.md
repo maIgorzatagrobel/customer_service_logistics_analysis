@@ -117,7 +117,7 @@ The dashboard includes five pages:
 - Overall Satisfaction by Gender – presents differences in overall satisfaction between male and female respondents.
 - Overall Satisfaction by City Size – illustrates how customer satisfaction varies depending on the size of the respondent’s place of residence.
 
-![Analysis](/Images/analysis_imge.png "Analysis")
+![Analysis](/Images/analysis_image.png "Analysis")
 
 - Satisfaction vs. Importance Analysis – a scatter plot was used to examine the relationship between customers’ satisfaction levels and the importance assigned to individual logistics customer service criteria.
 
